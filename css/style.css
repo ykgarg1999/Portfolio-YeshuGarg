@@ -1,0 +1,90 @@
+@media(max-width: 767px){
+	.height{
+		max-height: 600px;
+	}
+}
+@media(max-width: 576px){
+	
+	.height{
+		max-height: 350px;
+	}
+	#brand-name{
+		font-size: 30px;
+	}
+}
+@media(min-width: 800px){
+	#brand-name{
+		font-size: 40px;
+	}
+}
+
+*{
+	color: white;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #000000!important;
+}
+.brand-logo{
+	margin: 20px 0px 0px 20px;
+}
+
+.header{
+	overflow: auto;
+}
+.menu-bar{
+	padding: 20px 0px 0px 0px;
+	overflow: auto;
+}
+
+.nav-link{
+	margin: 0px 20px 0px 20px;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+}
+.border-rad{
+	border-radius: 20px 20px 20px 20px!important;
+}
+
+.cont-prop{
+	width: 80%;
+	font-size: 20px;
+	/*box-shadow: 15px 15px 15px 15px #888888;*/
+	/*border: 5px solid white;*/
+}
+.height{
+	height: 600px;
+	border-collapse: collapse;
+}
+
+.border-cont{
+	border: 1px solid white;
+}
+
+#myimg-container{
+	height: 90%;
+	overflow: hidden;
+}
+
+#social-icons{
+	height: 10%;
+	font-size: 200%;
+}
+#my-img{
+	width: 100%;
+	height: 100%;
+}
+
+#my-name{
+	font-size: 40px;
+}
+
+.dark-bg{
+	background-color: #212121;
+}
+
+.icon-align{
+	width: 90%;
+}
