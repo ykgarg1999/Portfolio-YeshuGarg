@@ -1,7 +1,7 @@
 # Portfolio-YeshuGarg
-Had a dream to built my own personal website independently. Really happy to make it true :)
-## Visit my WebSite - [Yeshu Garg](www.yeshugarg.me)
+### Visit my WebSite - [Yeshu Garg](www.yeshugarg.me)
 
+Had a dream to built my own personal website independently. Really happy to make it true :)
 * IDE - Sublime Text 3
 * Platform - Windows 10
 
